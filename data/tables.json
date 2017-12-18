@@ -1,0 +1,440 @@
+[
+  {
+    "id": "A",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Pedro Paiva and Rui Paiva",
+      "author_pt": "Pedro Paiva e Rui Paiva"
+    },
+    "drawings": [
+      { "id": 1, "slug": "ESoEdD: *De Dyeu:* &forall;", "title": "Ensaio sobre o estrabismo de Deus. *De Dyeu:* &forall;" },
+      { "id": 2, "slug": "aGdF: Tri&acirc;ngulos contra quadrados", "title": "A Guerra das formas. Tri&acirc;ngulos contra quadrados; acelerador de part&iacute;culas *Ouroboro*" },
+      { "id": 3, "slug": "WoaVS: &forall;", "title": "W ou a vida selvagem: &forall;" },
+      { "id": 4, "slug": "ESoEdD: *L’Adam* &rArr; *la dent*", "title": "Ensaio sobre o estrabismo de Deus: no espa&ccedil;o vazio de um dente arrancado, *L’Adam* &rArr; *la dent*" },
+      { "id": 5, "slug": "HDdF: *Une cigarette se compose de ...*", "title": "Hist&oacute;ria divina do fumo: “*Une cigarette se compose de trois parties: l’int&eacute;rieur ou tripe, la sous-cape et la cape ou robe; la tripe forme les 60 % du poids total; la sous-cape enveloppe la tripe; et le tout est roul&eacute; dans la robe*”" },
+      { "id": 6, "slug": "HDdF: *la robe*", "title": "Hist&oacute;ria divina do fumo: *la robe*" },
+      { "id": 7, "slug": "HDdF: do cinzeiro &agrave; cinza", "title": "Hist&oacute;ria divina do fumo: do cinzeiro &agrave; cinza" },
+      { "id": 8, "slug": "aPI: *Gambit Dame*: 1. D4 d5; 2. c4", "title": "A partida imortal: *Gambit Dame*: 1. D4 d5; 2. c4: tudo excepto 2... e6" },
+      { "id": 9, "slug": "aPI: Cc6", "title": "A partida imortal: Defesa semi-eslava: Cc6" },
+      { "id": 10, "slug": "HFdM : M como W &hArr; W como M", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: M como W &hArr; W como M" },
+      { "id": 11, "slug": "Zoom. A fogueira", "title": "Zoom. A fogueira (ver desenho 3 mesa A)" },
+      { "id": 12, "slug": "CdGC: dar a dire&ccedil;&atilde;o", "title": "Comp&ecirc;ndio de geometria clitoridiana: dar a dire&ccedil;&atilde;o certa se poss&iacute;vel" },
+      { "id": 13, "slug": "CdGC: Onde?", "title": "Comp&ecirc;ndio de geometria clitoridiana: Onde? O olho de quem?" },
+      { "id": 14, "slug": "aGdF: Quatro estrategos", "title": "A Guerra das formas: Quatro estrategos" },
+      { "id": 15, "slug": "ESoEdD: Quem?", "title": "Ensaio sobre o estrabismo de Deus: Quem?" },
+      { "id": 16, "slug": "ESoEdD: &forall; &exist;", "title": "Ensaio sobre o estrabismo de deus: o Taut&oacute;logo: &forall; &exist;" }
+    ]
+  },
+  {
+    "id": "B",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Laetitia Morais",
+      "author_pt": "Laetitia Morais"
+    },
+    "drawings": [
+      { "id": 17, "slug": "oQNdAG: *A force de ...*", "title": "O quarto nupcial do anti-globo. *A force d’insister le sens c&egrave;de* &rArr; *A force de c&eacute;der le sens insiste*" },
+      { "id": 18, "slug": "oQNDAG: *o Ovo*", "title": "O quarto nupcial do anti-globo: o Ovo" },
+      { "id": 19, "slug": "M<sup>E</sup> : *le point de vue de l’accident*", "title": "Montaigne: *le point de vue de l’accident*" },
+      { "id": 20, "slug": "HFdM: Le serpente est aveugle?", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *le serpent est aveugle quand il fait sa mue*" },
+      { "id": 21, "slug": "oQNdAG: a-pr&forall;gm&aacute;tico", "title": "O quarto nupcial do anti-globo: o desejo a-pr&forall;gm&aacute;tico; Vogal a e i o u y; Y = a mulher geom&eacute;trica" },
+      { "id": 22, "slug": "EdOeOdE: o casamento ilegal", "title": "Esbo&ccedil;o de orgia e orgia de esbo&ccedil;o: o casamento ilegal do grande Onanista" },
+      { "id": 23, "slug": "HFdM: um amor inato", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: um amor inato" },
+      { "id": 24, "slug": "EdOeOdE: desmembramento", "title": "Esbo&ccedil;o de orgia e orgia de esbo&ccedil;o: o grande desmembramento" },
+      { "id": 25, "slug": "EdOeOdE &forall;", "title": "Esbo&ccedil;o de orgia e orgia de esbo&ccedil;o &forall;" },
+      { "id": 26, "slug": "Zoom: acelerador *Ouroboro*", "title": "Zoom: acelerador *Ouroboro* (ver desenho 2 mesa A)" },
+      { "id": 27, "slug": "HDdF: resqu&iacute;cios", "title": "Hist&oacute;ria divina do fumo: resqu&iacute;cios" },
+      { "id": 28, "slug": "Zoom: os setes estrabismos", "title": "Zoom: os setes estrabismos (ver desenho 31 mesa C)" }
+    ]
+  },
+  {
+    "id": "C",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Sara and André",
+      "author_pt": "Sara e André"
+    },
+    "drawings": [
+      { "id": 29, "slug": "Zoom: diga zero", "title": "Zoom: diga zero (ver desenho 43 mesa C)" },
+      { "id": 30, "slug": "Zoom: o olho na palma da m&atilde;o", "title": "Zoom: o olho na palma da m&atilde;o (ver desenho 42 mesa C)" },
+      { "id": 31, "slug": "Dos sentidos: *l’œil du crane*", "title": "Dos sentidos: *l’œil du crane* &hArr; *lune cordial* &rArr; *dulcin&eacute;e orale* &rArr; *lucarne idole.*" },
+      { "id": 32, "slug": "Zoom: as tr&ecirc;s formulas &perp; &forall; &exist;", "title": "Zoom: as tr&ecirc;s formulas &perp; &forall; &exist; (ver desenho 33 mesa C)" },
+      { "id": 33, "slug": "ESoEdD: sete estrabismos", "title": "Ensaio sobre o estrabismo de Deus: sete estrabismos e tr&ecirc;s formulas (&perp; &forall; &exist;) mais tarde" },
+      { "id": 34, "slug": "Dos sentidos: cr&acirc;nio e l&iacute;ngua", "title": "Dos sentidos: cr&acirc;nio e l&iacute;ngua" },
+      { "id": 35, "slug": "aPI: Tf1 1-0", "title": "A partida imortal: Tf1 1-0: as trag&eacute;dias come&ccedil;am sempre pelo fim" },
+      { "id": 36, "slug": "aQdH: HDMDM<sup>E</sup>", "title": "A queda do homem: o Hapax de Monsieur de Montaigne" },
+      { "id": 37, "slug": "Zoom: estado da alma", "title": "Zoom: estado da alma logo a seguir &agrave; queda (ver desenho 38 mesa C)" },
+      { "id": 38, "slug": "Os tr&ecirc;s estados da alma", "title": "Os tr&ecirc;s estados da alma a seguir &agrave; queda" },
+      { "id": 39, "slug": "Os redondos: &eacute;C", "title": "Os redondos: &eacute;dipo cego" },
+      { "id": 40, "slug": "Os redondos: *Tzitzum 1*", "title": "Os redondos: *Tzitzum 1*" },
+      { "id": 41, "slug": "Os redondos: *Dieu louche*", "title": "Os redondos: *Dieu louche* &rArr; *douce huile*" },
+      { "id": 42, "slug": "oP: &eacute;dipo &rArr; cego", "title": "Os press&aacute;gios: &eacute;dipo &rArr; cego" },
+      { "id": 43, "slug": "oP: zero mais zero &eacute; igual a zero", "title": "Os press&aacute;gios: zero mais zero &eacute; igual a zero" }
+    ]
+  },
+  {
+    "id": "D",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "António Silveira Gomes",
+      "author_pt": "António Silveira Gomes"
+    },
+    "drawings": [
+      { "id": 44, "slug": "HUdC: anjo *truelle*", "title": "Hist&oacute;ria universal dos corredores: anjo *truelle*" },
+      { "id": 45, "slug": "HUdC: cruzamento", "title": "Hist&oacute;ria universal dos corredores: cruzamento" },
+      { "id": 46, "slug": "HUdC: o inacabado", "title": "Hist&oacute;ria universal dos corredores: o inacabado (norte)" },
+      { "id": 47, "slug": "HUdC: modo de emprego", "title": "Hist&oacute;ria universal dos corredores: corredores modo de emprego" },
+      { "id": 48, "slug": "HUdC: cascas", "title": "Hist&oacute;ria universal dos corredores: cascas" },
+      { "id": 49, "slug": "HUdC: as portas", "title": "Hist&oacute;ria universal dos corredores: as portas" },
+      { "id": 50, "slug": "oQNdAG: a armadilha", "title": "O quarto nupcial do anti-globo: a armadilha" },
+      { "id": 51, "slug": "oQNdAG: projeto arquitect&oacute;nico", "title": "O quarto nupcial do anti-globo: projeto arquitect&oacute;nico" },
+      { "id": 52, "slug": "oQNdAG: &forall;", "title": "O quarto nupcial do anti-globo: &forall;" },
+      { "id": 53, "slug": "aGdF: Atir&aacute;vamos balas ...", "title": "A Guerra das formas: Atir&aacute;vamos balas aos rel&oacute;gios e setas &agrave;s estrelas" },
+      { "id": 54, "slug": "CSoAG: esbo&ccedil;o do cartaz", "title": "Confer&ecirc;ncia sobre o anti-globo: esbo&ccedil;o do cartaz" },
+      { "id": 55, "slug": "CSoAG: &forall;", "title": "Confer&ecirc;ncia sobre o anti-globo: &forall;" },
+      { "id": 56, "slug": "oQNdAG: &rArr; &sub; HFDM", "title": "O quarto nupcial do anti-globo &rArr; &sub; Hist&oacute;ria fant&aacute;stica do mergulho" },
+      { "id": 57, "slug": "aGdF &rArr; &sub; HUDC", "title": "A guerra das formas &rArr; &sub; Hist&oacute;ria universal dos corredores" }
+    ]
+  },
+  {
+    "id": "E",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Arthur Dessine-Tiamat",
+      "author_pt": "Arthur Dessine-Tiamat"
+    },
+    "drawings": [
+      { "id": 58, "slug": "aGdF: al&ccedil;ap&otilde;es contra portas", "title": "A guerra das formas: al&ccedil;ap&otilde;es contra portas. Defesa siciliana" },
+      { "id": 59, "slug": "Zoom: *L’Anti*-cubo", "title": "Zoom: *L’Anti*-cubo (ver desenho 173 mesa M)" },
+      { "id": 60, "slug": "Os redondos: quatro raios", "title": "Os redondos: quatro raios" },
+      { "id": 61, "slug": "HdO: a queda prematura", "title": "Hist&oacute;ria do Ovo: a queda prematura" },
+      { "id": 62, "slug": "aGdF: al&ccedil;ap&otilde;es contra portas...", "title": "A guerra das formas: al&ccedil;ap&otilde;es contra portas; subir e deixar passar" },
+      { "id": 63, "slug": "oQNdAG: o quarto azul", "title": "O quarto nupcial do anti-globo: o quarto azul" },
+      { "id": 64, "slug": "oQNdAG: coito espasm&oacute;dico de ...", "title": "O quarto nupcial do anti-globo: coito espasm&oacute;dico de uma pir&acirc;mide e de um cilindro" },
+      { "id": 65, "slug": "monumento pela paz", "title": "Projeto (n&atilde;o aceite) de um monumento pela paz" },
+      { "id": 66, "slug": "&Eacute;C/n&oacute;.", "title": "&Eacute;dipo cego/n&oacute;." },
+      { "id": 67, "slug": "Carimbos: as armadilhas", "title": "Carimbos: as armadilhas" },
+      { "id": 68, "slug": "oQNdAG: pir&acirc;mide truncada = quadrado", "title": "O quarto nupcial do anti-globo: pir&acirc;mide truncada = quadrado" },
+      { "id": 69, "slug": "oQNdAG: das &oacute;rbitas; &eacute;C &rArr; &sub; DV", "title": "O quarto nupcial do anti-globo: das &oacute;rbitas aos globos; &eacute;dipo cego &rArr; &sub; Deus vesgo" }
+    ]
+  },
+  {
+    "id": "F",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Nuno Moura",
+      "author_pt": "Nuno Moura"
+    },
+    "drawings": [
+      { "id": 70, "slug": "Zoom: epis&oacute;dios da vida de Makuna&iacute;ma", "title": "Zoom: epis&oacute;dios da vida de Makuna&iacute;ma segundo os &iacute;ndios Taulipangue e Arekuna. O toco que originou a primeira enchente: “ent&atilde;o a &aacute;gua veio com muita for&ccedil;a e jogou o cesto para fora” (ver desenho 82 mesa 6)" },
+      { "id": 71, "slug": "Zoom: armadilha para capturar esferas", "title": "Zoom: armadilha para capturar esferas (ver desenho 76 mesa F)" },
+      { "id": 72, "slug": "Zoom: armadilha para capturar uma f&eacute;nix f&ecirc;mea", "title": "Zoom: armadilha para capturar uma f&eacute;nix f&ecirc;mea (ver desenho 77 mesa F)" },
+      { "id": 73, "slug": "HdE: eclipse pneu/sol", "title": "Hist&oacute;ria da enchente: eclipse pneu/sol" },
+      { "id": 74, "slug": "HdE: sobreviver depois", "title": "Hist&oacute;ria da enchente: sobreviver depois" },
+      { "id": 75, "slug": "AMdE: ca&ccedil;a aos barcos, cobras e carpas", "title": "Armadilhas modo de emprego: instrumento para a ca&ccedil;a aos barcos, cobras e carpas mitol&oacute;gicas" },
+      { "id": 76, "slug": "AMdE: a ca&ccedil;a &agrave; esfera", "title": "Armadilhas modo de emprego: a ca&ccedil;a &agrave; esfera" },
+      { "id": 77, "slug": "AMDE: a ca&ccedil;a &agrave; f&eacute;nix", "title": "Armadilhas modo de emprego: a ca&ccedil;a &agrave; f&eacute;nix" },
+      { "id": 78, "slug": "HDdF: origem lume/amor", "title": "Hist&oacute;ria divina do fumo: origem do lume &rArr; origem do amor" },
+      { "id": 79, "slug": "DM<sup>S</sup>: epis&oacute;dios da vida de Makuna&iacute;ma: as minhas frutas...", "title": "Desenhos mnem&oacute;nicos: epis&oacute;dios da vida de Makuna&iacute;ma segundo os &iacute;ndios Taulipangue e Arekuna: “As minhas frutas ainda n&atilde;o tem sabor. Ser&aacute; que as tuas est&atilde;o boas?”" },
+      { "id": 80, "slug": "DM<sup>S</sup>: Deu uma dentada", "title": "Desenhos mnem&oacute;nicos: “Makuna&iacute;ma deu uma dentada e esfregou o fruto (...) experimenta agora!”" },
+      { "id": 81, "slug": "DM<sup>S</sup>: enfiou um tronco", "title": "Desenhos mnem&oacute;nicos: “Makuna&iacute;ma enfiou um tronco de Inaja muito alto na terra e Jingu&eacute; imitou-o”" },
+      { "id": 82, "slug": "DM<sup>S</sup>: deixa sair um bocadinho...", "title": "Desenhos mnem&oacute;nicos: Makuna&iacute;ma disse “deixa sair um bocadinho mais de peixe para o rio depois vamos cobrir o toco” &rArr; Hist&oacute;ria da enchente" },
+      { "id": 83, "slug": "DM<sup>S</sup>: estava envolvida em cip&oacute;s", "title": "Desenhos mnem&oacute;nicos: A &aacute;rvore Azaka estava envolvida em cip&oacute;s e havia muitas vespas" },
+      { "id": 84, "slug": "HdE: t&eacute;cnica de sobreviv&ecirc;ncia", "title": "Hist&oacute;ria da enchente: t&eacute;cnica de sobreviv&ecirc;ncia: deixar secar as botas ou utiliz&aacute;-las para guardar a &aacute;gua da chuva" },
+      { "id": 85, "slug": "DM<sup>S</sup>: procuraram o fogo", "title": "Desenhos mnem&oacute;nicos: “procuraram o fogo e acharam o passarinho Mut&uacute;g. Makuna&iacute;ma amarrou-lhe um cordel comprido ao rabo” &rArr; Hist&oacute;ria divina do fumo" },
+      { "id": 86, "slug": "DM<sup>S</sup>: passavam fome", "title": "Desenhos mnem&oacute;nicos: “Makuna&iacute;ma e os seus irm&atilde;os passavam fome, mas Ak&uacute;li voltava sempre de barriga cheia para casa...”" }
+    ]
+  },
+  {
+    "id": "G",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Marta Moreira",
+      "author_pt": "Marta Moreira"
+    },
+    "drawings": [
+      { "id": 87, "slug" : "HdE: o nascimento", "title": "Hist&oacute;ria da enchente: o nascimento do anti-cubo" },
+      { "id": 88, "slug" : "HdE: Encontro fortuito", "title": "Hist&oacute;ria da enchente: Encontro fortuito; a pr&aacute;tica virtuosa do eclipse: *Pratique virtuose* &rArr; *tu ravie (les) tropique; Virtuose de l’&eacute;clipse* &hArr; *cultive le d&eacute;sespoir* &rArr; *(l’)ellipse se d&eacute;couvrit* &rArr; *(le)cul d&eacute;voile et persiste* &rArr; *d&eacute;rive la politesse*" },
+      { "id": 89, "slug" : "HdE: (sobreviver) &rArr; &sub;  HDDF (meditar)", "title": "Hist&oacute;ria da enchente (sobreviver) &rArr; &sub; Hist&oacute;ria divina do fumo (meditar)" },
+      { "id": 90, "slug" : "HFdM: a culpa se existisse ...", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: a culpa do outro se existisse..." },
+      { "id": 91, "slug" : "*PR*: sem mexer?", "title": "*Panta Rhei*: quem olha fixamente sem mexer?" },
+      { "id": 92, "slug" : "*PR*: objeto flutuante", "title": "Panta Rhei: objeto flutuante n&atilde;o identificado" },
+      { "id": 93, "slug" : "*PR*: v&aacute;rios n&iacute;veis de enchimentos &rArr; &sub; HDE", "title": "Panta Rhei: v&aacute;rios n&iacute;veis de enchimentos &rArr; &sub; Hist&oacute;ria da enchente" },
+      { "id": 94, "slug" : "HFdM: *As somehow ...*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *As somehow, anyhow, they moved on...*" },
+      { "id": 95, "slug" : "HdE: tr&ecirc;s sujeitos transcendentais", "title": "Hist&oacute;ria da enchente: tr&ecirc;s sujeitos transcendentais" },
+      { "id": 96, "slug" : "*PR*: O homem que foge", "title": "*Panta Rhei*. O homem que foge" },
+      { "id": 97, "slug" : "*PR*: *&eacute;pluchures*", "title": "*Panta Rhei*: da grandeza das *&eacute;pluchures*" },
+      { "id": 98, "slug" : "*PR*: o inc&ecirc;ndio", "title": "*Panta Rhei*: O homem que foge, o inc&ecirc;ndio" },
+      { "id": 99, "slug" : "Zoom: o inc&ecirc;ndio", "title": "Zoom: o inc&ecirc;ndio (ver desenho 8 mesa G)" },
+      { "id": 100, "slug" : "HFdM: esbo&ccedil;o de ciclope", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: esbo&ccedil;o de ciclope" },
+      { "id": 101, "slug" : "HFdM: ciclope", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: ciclope" }
+    ]
+  },
+  {
+    "id": "H",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Bruno Marchand",
+      "author_pt": "Bruno Marchand"
+    },
+    "drawings": [
+      { "id": 102, "slug" : "LP<sup>S</sup>: *boule rouge*", "title": "*Les psychopompes: boule rouge*" },
+      { "id": 103, "slug" : "LP<sup>S</sup>: *il fut dextre*", "title": "*Les psychopompes: il fut dextre*" },
+      { "id": 104, "slug" : "LP<sup>S</sup>: *ont les retrouvent*", "title": "*Les psychopompes: ont les retrouvent*" },
+      { "id": 105, "slug" : "Hapax: *La chasse au Kairos*", "title": "Hapax: *La chasse au Kairos; 1: on ne le voit pas; 2: on le voit et on ne fait rien; 3: on l’attrape par les cheveux*" },
+      { "id": 106, "slug" : "HFdM: *l’essayeur essay&eacute;*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *l’essayeur essay&eacute;*" },
+      { "id": 107, "slug" : "HFdM: *d&eacute;j&agrave; tout petit*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *d&eacute;j&agrave; tout petit il aimait les &eacute;trang&egrave;res*" },
+      { "id": 108, "slug" : "HFdM: *synoptique et divergent*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *synoptique et divergent*" },
+      { "id": 109, "slug" : "HFdM: *homme sans t&ecirc;te*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *homme sans t&ecirc;te*" },
+      { "id": 110, "slug" : "HdE &rArr; &sub; HDDF: fumador flutuando", "title": "Hist&oacute;ria da enchente &rArr; &sub; Hist&oacute;ria divina do fumo: fumador flutuando" },
+      { "id": 111, "slug" : "HFdM: *l’esprit animeaux*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *l’esprit animeaux*" },
+      { "id": 112, "slug" : "HFDM: *la vie r&ecirc;v&eacute;e d’un scaphandrier*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *la vie r&ecirc;v&eacute;e d’un scaphandrier*" },
+      { "id": 113, "slug" : "HFdM: *le simple plaisir d’une cause...*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *le simple plaisir d’une cause suivit de son effet*" },
+      { "id": 114, "slug" : "HFdM: *coute que coute*", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: *renoncer au d&eacute;terminisme coute que coute*" },
+      { "id": 115, "slug" : "HFdM: ser antrop&oacute;fago", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: Da nostalgia de ser antrop&oacute;fago" }
+    ]
+  },
+  {
+    "id": "I",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Eduardo Matos",
+      "author_pt": "Eduardo Matos"
+    },
+    "drawings": [
+      { "id": 116, "slug": "WoaVS: o vai e vem", "title": "W ou a vida selvagem: o vai e vem das ontologias" },
+      { "id": 117, "slug": "HFdM: &perp; &forall; &exist;", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: &perp; &forall; &exist; (*Absurde, pour tout quel que soit, il existe*)" },
+      { "id": 118, "slug": "HFdM: Deus n&atilde;o se imagina", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: Deus n&atilde;o se imagina, experimenta-se!" },
+      { "id": 119, "slug": "HFdM: arrastar o corpo", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: arrastar o corpo para frente, s&iacute;ndrome da escada &rArr; &sub; s&iacute;ndrome do carro de m&atilde;o" },
+      { "id": 120, "slug": "LP<sup>S</sup>: *ont avaient mis les morts a table*", "title": "*Les psychopompes: ont avaient mis les morts a table*" },
+      { "id": 121, "slug": "HDdF: o Eclesiastes", "title": "Hist&oacute;ria divina do fumo: o Eclesiastes" },
+      { "id": 122, "slug": "LP<sup>S</sup>: *suivez moi SVP*", "title": "*Les psychopompes: L’&acirc;me descend-suivez moi SVP- ICARE s’entraine au vol*" },
+      { "id": 123, "slug": "LP<sup>S</sup>: *jantar*", "title": "*Les psychopompes: jantar; aranha; longue vue; alcool; toupies (2); flaque etc...*" },
+      { "id": 124, "slug": "LP<sup>S</sup>: *L’incendie approche*", "title": "*Les psychopompes: L’incendie approche*" },
+      { "id": 125, "slug": "LP<sup>S</sup> &rArr; &sub;  HFDM: LP", "title": "*Les psychopompes* &rArr; &sub; Hist&oacute;ria fant&aacute;stica do mergulho: *le psychopompe*" },
+      { "id": 126, "slug": "LP<sup>S</sup>: *cerf psychopompe*", "title": "*Les psychopompes: cerf psychopompe* &rArr; &sub; *F&egrave;ces polymorphe* &rArr; &sub; *Cyclope form&eacute;e*" },
+      { "id": 127, "slug": "oAdCP: mais somos n&oacute;s, menos ...", "title": "O amor do crime passional: mais somos n&oacute;s, menos somos n&oacute;s" },
+      { "id": 128, "slug": "oAdCP: a arma", "title": "O amor do crime passional: a arma (amar) do crime: a esfregona" },
+      { "id": 129, "slug": "CdGC: *fellatio etrusca* I", "title": "Comp&ecirc;ndio de geometria clitoridiana: *fellatio etrusca* I ( Paris, Mus&eacute;e de Cluny)" },
+      { "id": 130, "slug": "CdGC: *fellatio etrusca* 2", "title": "Comp&ecirc;ndio de geometria clitoridiana: *fellatio etrusca* II (Paris, Mus&eacute;e de Cluny)" }
+    ]
+  },
+  {
+    "id": "J",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Pedro Moura",
+      "author_pt": "Pedro Moura"
+    },
+    "drawings": [
+      { "id": 131, "slug": "DM<sup>S</sup>: Le grand vizir", "title": "Desenhos mnem&oacute;nicos: *Le grand vizir*. O sistema de Gregor Von Feinaigle" },
+      { "id": 132, "slug": "*le trou mur*", "title": "*Il y a des &ecirc;tres avec des r&eacute;gimes d’existence particuli&egrave;re: le trou mur, une jubilation joint au sentiment de la catastrophe*" },
+      { "id": 133, "slug": "Hapax: o duelo", "title": "Hapax: o duelo: o escritor versus o cr&iacute;tico (Bola&ntilde;o/Proust)" },
+      { "id": 134, "slug": "AMdE: o casaco de Espinosa", "title": "Armadilhas modo de emprego: o casaco de Espinosa" },
+      { "id": 135, "slug": "AMdE: disfarce", "title": "Armadilhas modo de emprego: disfarce" },
+      { "id": 136, "slug": "aPI: 1. b4", "title": "A partida imortal: abertura Orangotango, 1. b4" },
+      { "id": 137, "slug": "aPI: Dd4", "title": "A partida imortal: Dame d4" },
+      { "id": 138, "slug": "aPI: defesa Hipop&oacute;tamo &hArr; M versus S", "title": "A partida imortal: defesa Hipop&oacute;tamo &hArr; *m&eacute;dusions (dzo) versus sodomiser (dun)*" },
+      { "id": 139, "slug": "aPI: 1. e4 e5 2. cf3 d5", "title": "A partida imortal: gambito Elefante: 1. e4 e5 2. cf3 d5 &hArr; *Dieu louche dans l’abime versus Adieu soluble dimanche*" },
+      { "id": 140, "slug": "aPI: 1. e4 e5 2. Cf3 Cc6 3. Cc3", "title": "A partida imortal: Abertura dos Tr&ecirc;s Cavalos 1. e4 e5 2. Cf3 Cc6 3. Cc3 &hArr; *Oubli (la) chaud(e) Madeleine versus idoles chaude(s) (d’)albumines*" },
+      { "id": 141, "slug": "aPI: 1. e4 c6 2. d4 d5", "title": "A partida imortal: defesa Caro-Kann: 1. e4 c6 2. d4 d5 &hArr; *bouddha munie (d’)&eacute;caille versus chien badaud mouill&eacute;*" },
+      { "id": 142, "slug": "da alma depois do amor", "title": "*Il y a des &ecirc;tres avec des r&eacute;gimes d’existence particuli&egrave;re*: quatro maneiras de ser da alma depois do amor: lume, fumo, nu, morta" },
+      { "id": 143, "slug": "*ne me faite pas dire ce que je n’ais pas dit*", "title": "*Il y a des &ecirc;tres avec des r&eacute;gimes d’existence particuli&egrave;re: ne me faite pas dire ce que je n’ais pas dit*" }
+    ]
+  },
+  {
+    "id": "K",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Alexandre Estrela",
+      "author_pt": "Alexandre Estrela"
+    },
+    "drawings": [
+      { "id": 144, "slug": "DT<sup>S</sup>: Mesa A: *de Dyeu*", "title": "Desenhos tautol&oacute;gicos: mesa A: *de Dyeu*; n&atilde;o h&aacute; outro real que o duplo mesmo" },
+      { "id": 145, "slug": "DT<sup>S</sup>: Mesa C: Da Alma", "title": "Desenhos tautol&oacute;gicos: mesa C: da Alma; *mani&egrave;re d’&ecirc;tre de l’ &acirc;me* &hArr; &rArr; *de drame &eacute;l&eacute;mentaire ou &acirc;ne dilemme retard&eacute;e Adam r&eacute;el d&eacute;termin&eacute;e*" },
+      { "id": 146, "slug": "Hapax: *faites vos jeux, rien ne vas plus*", "title": "Hapax: *faites vos jeux, rien ne vas plus*" },
+      { "id": 147, "slug": "DT<sup>S</sup>: ver ...", "title": "Desenhos tautol&oacute;gicos: ver: W ou a vida selvagem: &forall; mesa A" },
+      { "id": 148, "slug": "DT<sup>S</sup> *Mise en ab&icirc;me*", "title": "Desenhos tautol&oacute;gicos *Mise en ab&icirc;me*: ver desenho 2 mesa A &rArr; ver desenho 26 mesa B &rArr; ver desenho 154 mesa K &rArr; ver desenho 148 mesa J &rArr; ver desenho 2 mesa A &rArr; ver desenho 26 mesa B &rArr; ver desenho 154 mesa K &rArr; ver desenho 148 mesa J ... &infin;" },
+      { "id": 149, "slug": "aGdF: a ante-forma", "title": "A guerra das formas: a ante-forma" },
+      { "id": 150, "slug": "aGdF: as in-coincid&ecirc;ncias", "title": "A guerra das formas: tri&acirc;ngulos contra quadrados; as in-coincid&ecirc;ncias" },
+      { "id": 151, "slug": "WoaVS: *Le un est*", "title": "W ou a vida selvagem: *Le Un est une construction logique*" },
+      { "id": 152, "slug": "Os or&aacute;culos: a louva-Deus", "title": "Os or&aacute;culos: a louva-Deus" },
+      { "id": 153, "slug": "HUdCS: 1. e4 e5 2. f4", "title": "Hist&oacute;ria universal dos corredores: *boule rouge* &sub; gambito do Rei 1. e4 e 5 2. f4 &hArr; *Emet*, o sacrif&iacute;cio de Atahualpa: desenho exclu&iacute;do desta mesa" },
+      { "id": 154, "slug": "DT<sup>S</sup>: &infin;", "title": "Desenhos tautol&oacute;gicos: &infin;" },
+      { "id": 155, "slug": "Zoom: a queda do homem", "title": "Zoom: a queda do homem (o desenho referente ao zoom j&aacute; n&atilde;o existe)" },
+      { "id": 156, "slug": "aPI: Os dias passavam", "title": "A partida imortal: “(...) Os dias passavam entre visitas, promessas e intrigas de toda a sorte. Atahualpa aprendera a jogar com Hernando (...)”, o seu carrasco" },
+      { "id": 157, "slug": "DT<sup>S</sup>: O afiador", "title": "Desenhos tautol&oacute;gicos: O afiador de faca e o grande onanista (ver desenho 22 mesa B)" },
+      { "id": 158, "slug": "HDdF: A joker", "title": "Hist&oacute;ria divina do fumo: A joker" }
+    ]
+  },
+  {
+    "id": "L",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Mariana Lanari",
+      "author_pt": "Mariana Lanari"
+    },
+    "drawings": [
+      { "id": 159, "slug": "aQdH: o ponto de vista do cavalo...", "title": "A queda do homem: o ponto de vista do cavalo, da meia e do sapato" },
+      { "id": 160, "slug": "Hapax: *affirme que le cul*", "title": "Hapax: *Quevedo affirme que le cul est pareille au visage des cyclopes qui “descendaient des dieux de la vue”* (O. Paz)" },
+      { "id": 161, "slug": "WoaVS: L, Leva, Eva", "title": "W ou a vida selvagem: L, Leva, Eva" },
+      { "id": 162, "slug": "WoaVS: O interlocutor", "title": "W ou a vida selvagem: O interlocutor" },
+      { "id": 163, "slug": "WoaVS &rArr; &sub; HFDM: as vis&otilde;es 1", "title": "W ou a vida selvagem &rArr; &sub; Hist&oacute;ria fant&aacute;stica do mergulho: as vis&otilde;es do mergulhador quando falta o oxig&eacute;nio I" },
+      { "id": 164, "slug": "WoaVS &rArr; &sub; HFDM: as vis&otilde;es 2", "title": "W ou a vida selvagem &rArr; &sub; Hist&oacute;ria fant&aacute;stica do mergulho: as vis&otilde;es do mergulhador quando falta o oxig&eacute;nio II" },
+      { "id": 165, "slug": "Hapax: *Aristote Chevauch&eacute;*", "title": "Hapax: *Aristote Chevauch&eacute; d’apr&eacute;s une gravure de Hans Baldung*" },
+      { "id": 166, "slug": "*Totzahoth: Les issues* &rArr; HFDM: o s&iacute;ndrome da escada", "title": "*Totzahoth* (903): *Les issues* &rArr; Hist&oacute;ria fant&aacute;stica do mergulho: o s&iacute;ndrome da escada" },
+      { "id": 167, "slug": "*Totzahoth: Les issues de la mort*", "title": "*Totzahoth* (903): *Les issues: “Il a &eacute;t&eacute; cr&eacute;e dans le monde neuf cent trois vari&eacute;t&eacute;s de morts, ainsi qu’il est dit: Les issues de la mort (Ps. 68 20.)”* (A. Cohen)" },
+      { "id": 168, "slug": "*Totzahoth: Les issues: La plus terrible de toute...*", "title": "*Totzahoth* (903): *Les issues: “La plus terrible de toute les morts est le croup; Il ressemble &agrave; une &eacute;pine dans une balles de laine rogn&eacute;e, qui la d&eacute;chire en arri&egrave;re. D’autres le comparent &agrave; l’entr&eacute;e d’un d&eacute;fil&eacute; &eacute;troit”* (A. Cohen)" },
+      { "id": 169, "slug": "*Totzahoth: Les issues: La plus douce...*", "title": "*Totzahoth* (903): *“La plus douce, le baiser de la mort ressemble a l’action d’&ocirc;ter un cheveu du milieux du lait”* (A. Cohen)" },
+      { "id": 170, "slug": "WoaVS: ilustres antepassados", "title": "W ou a vida selvagem: a visita ao museu; os nossos ilustres antepassados..." },
+      { "id": "171a", "slug": "aQdH: &rArr; &sub; *Totzahoth*", "title": "A queda do homem &rArr; &sub; *Totzahoth* (903): *Les issues:* Tr&aacute;pola &rArr; (ver 171 mesa M)" }
+    ]
+  },
+  {
+    "id": "M",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Gonçalo Pena",
+      "author_pt": "Gonçalo Pena"
+    },
+    "drawings": [
+      { "id": "171b", "slug": "DM<sup>S</sup>: Hist&oacute;ria da primeira que desencadeou o primeiro", "title": "(ver desenho 171 mesa L) Desenhos mnem&oacute;nicos: Hist&oacute;ria da primeira enchente que desencadeou o primeiro inc&ecirc;ndio que desencadeou a primeira tentativa de fazer um homem em cera que n&atilde;o resultou e que desencadeou a sua fabrica&ccedil;&atilde;o em argila que resultou" },
+      { "id": 172, "slug": "&iacute;caro = a queda + - depois", "title": "&iacute;caro = a queda + - depois, em baixo da A23 Rio Ocreza (39,548867, - 7-8246694) IP6 entre a sa&iacute;da 14 e 15" },
+      { "id": 173, "slug": "aQdH: Nova teoria do sacrif&iacute;cio", "title": "A queda do homem &rArr; Nova teoria do sacrif&iacute;cio" },
+      { "id": 174, "slug": "aQdH: o fruto proibido 2", "title": "A queda do homem: o fruto proibido &rArr; a casca de banana 1" },
+      { "id": 175, "slug": "aQdH: o fruto proibido 2", "title": "A queda do homem: o fruto proibido &rArr; a casca de banana 2" },
+      { "id": 176, "slug": "DM<sup>S</sup> &sub; AQDH &sub; HDMDM<sup>E</sup>", "title": "Desenhos mnem&oacute;nicos &sub; A queda do homem &rArr; &sub; o hapax de Monsieur de Montaigne" },
+      { "id": 177, "slug": "&iacute;caro = A queda + - antes", "title": "&iacute;caro = A queda + - antes, em baixo da A23 (autoestrada da Beira Interior) Rio Ocreza (39,548867, - 7-8246694) Dir. Torras Novas/Castelo Branco" },
+      { "id": 178, "slug": "oHdMdM<sup>E</sup> 1", "title": "O hapax de Monsieur de Montaigne 1" },
+      { "id": 179, "slug": "oHdMdM<sup>E</sup> 2", "title": "O hapax de Monsieur de Montaigne 2" },
+      { "id": 180, "slug": "oHdMdM<sup>E</sup> 3", "title": "O hapax de Monsieur de Montaigne 3" },
+      { "id": 181, "slug": "oHdMdM<sup>E</sup> 4", "title": "O hapax de Monsieur de Montaigne 4" },
+      { "id": 182, "slug": "A visita ao museu &sub;  &rArr; aQdH", "title": "A visita ao museu &rArr; &sub; A queda do homem" },
+      { "id": 183, "slug": "DM<sup>S</sup>: aproveitou-se do sonho de Deus", "title": "Desenhos mnem&oacute;nicos: o casal primevo aproveitou-se do sonho de Deus para cortar um peda&ccedil;o da sua perna e com&ecirc;-la. Deus foi viver no c&eacute;u e nunca mais falou com os homens. Para mostrar o seu desencanto, enviou-lhes trov&otilde;es. Nos impactos que deixavam na terra cresceu o milho que os homens aprenderam a cultivar" },
+      { "id": 184, "slug": "Nova teoria do sacrif&iacute;cio: Deus olha os homens...", "title": "Nova teoria do sacrif&iacute;cio: Deus olha os homens que, ainda no para&iacute;so, deixaram de comer fruta para comer carne" }
+    ]
+  },
+  {
+    "id": "N",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Patrícia Mourão",
+      "author_pt": "Patrícia Mourão"
+    },
+    "drawings": [
+      { "id": 185, "slug": "HdO &sub; HDDF", "title": "Hist&oacute;ria do Ovo (os g&eacute;meos) &sub; Hist&oacute;ria divina do fumo." },
+      { "id": 186, "slug": "HdO &rArr; &sub; Hapax: *le cul est pareille au visage*", "title": "Hist&oacute;ria do Ovo &rArr; &sub; Hapax: *Quevedo affirme que le cul est pareille au visage des cyclopes qui “descendaient des dieux de la vue”* (O. Paz)" },
+      { "id": 187, "slug": "HdO: o gorila", "title": "Hist&oacute;ria do Ovo: o gorila" },
+      { "id": 188, "slug": "HdO: o chimpanz&eacute;", "title": "Hist&oacute;ria do Ovo: o chimpanz&eacute;" },
+      { "id": 189, "slug": "HdO: *la guenon*", "title": "Hist&oacute;ria do Ovo: *la guenon*" },
+      { "id": 190, "slug": "HdO:  a escada", "title": "Hist&oacute;ria do Ovo: a escada" },
+      { "id": 191, "slug": "HdO: a morte", "title": "Hist&oacute;ria do Ovo: a morte" },
+      { "id": 192, "slug": "HdO &rArr; &sub;  ESOEDD", "title": "Hist&oacute;ria do Ovo &rArr; &sub; ensaio sobre o estrabismo de Deus" },
+      { "id": 193, "slug": "&eacute;dipo cego e o labirinto", "title": "&eacute;dipo cego e o labirinto" },
+      { "id": 194, "slug": "aGdF: T versus Q &sub; ESOEDD &rArr; &sub; WOAVS", "title": "A guerra das formas: tri&acirc;ngulo versus quadrado &sub; ensaio sobre o estrabismo de Deus &rArr; &sub; W ou a vida selvagem" },
+      { "id": 195, "slug": "Zoom: os &oacute;culos", "title": "Zoom: os &oacute;culos (ver desenho 196 mesa N)" },
+      { "id": 196, "slug": "*PR: o exilado*", "title": "*Panta Rhei*: o exilado, *celui qui regarde est...*" },
+      { "id": 197, "slug": "WoaVS: o aparecimento do desaparecimento", "title": "W ou a vida selvagem: o aparecimento do desaparecimento da bola de sab&atilde;o" }
+    ]
+  },
+  {
+    "id": "O",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Pedro Nora",
+      "author_pt": "Pedro Nora"
+    },
+    "drawings": [
+      { "id": 211, "slug": "HdO: &perp; &forall; &exist;", "title": "Hist&oacute;ria do Ovo: &perp; &forall; &exist; (Absurdo, por tudo qualquer que seja, existe)" },
+      { "id": 212, "slug": "Hapax: Sem t&iacute;tulo", "title": "Hapax: Sem t&iacute;tulo" },
+      { "id": 213, "slug": "Hapax: Manifesto", "title": "Hapax: Manifesto: o esp&iacute;rito do ventilador" },
+      { "id": 214, "slug": "Zoom: *Oculovos* &epsilon; HdO &rArr; &sub;  ESoEdD", "title": "Zoom: *Oculovos* &epsilon; Hist&oacute;ria do Ovo &rArr; &sub; ensaio sobre o estrabismo de Deus (ver desenho 192 mesa N)" },
+      { "id": 215, "slug": "Zoom: O tri&acirc;ngulo vermelho &epsilon; aGdF &rArr; &sub;CdGC", "title": "Zoom: O tri&acirc;ngulo vermelho &epsilon; a guerras das formas &rArr; &sub; comp&ecirc;ndio de geometria clitoridiana (ver desenho 223 mesa O)" },
+      { "id": 216, "slug": "Zoom: A mulher geom&eacute;trica &epsilon; aGdF &rArr; &sub; CdGC", "title": "Zoom: A mulher geom&eacute;trica &epsilon; a guerras das formas &rArr; &sub; comp&ecirc;ndio de geometria clitoridiana (ver desenho 223 mesa O)" },
+      { "id": 217, "slug": "AMdE: a cadeira inundada... &rArr; &sub; aGdF: T versus Q", "title": "Armadilhas modo de emprego: a cadeira inundada, a mesa quebrada, o projetor de c&iacute;rculos &rArr; &sub; a guerras das formas: tri&acirc;ngulo versus quadrado" },
+      { "id": 218, "slug": "AMdE: a mesa quebrada e a calv&iacute;cie &rArr; &sub; aGdF : Q versus E", "title": "Armadilhas modo de emprego: a mesa quebrada e a calv&iacute;cie &rArr; &sub; a guerra das formas: quadrados versus esferas" },
+      { "id": 219, "slug": "WoaVS: Urubu rei", "title": "W ou a vida selvagem: Urubu rei" },
+      { "id": 220, "slug": "WoaVS: depois da batalha &rArr; &sub; AGDF", "title": "W ou a vida selvagem: depois da batalha &rArr; &sub; a guerras das formas" },
+      { "id": 221, "slug": "WoaVS: quatro estrategos &epsilon; &rArr; AGDF", "title": "W ou a vida selvagem: quatro estrategos &epsilon; &rArr; a guerras das formas" },
+      { "id": 222, "slug": "Zoom: o cinzeiro &epsilon; aGdF &rArr; &sub; HDDF", "title": "Zoom: o cinzeiro com quatro bocas de fogo &epsilon; a guerras das formas &rArr; &sub; Hist&oacute;ria divina do fumo (ver desenho 223 mesa O)" },
+      { "id": 223, "slug": "aGdF: E versus C...", "title": "A guerras das formas: esferas versus cubos, reconstitui&ccedil;&atilde;o em laborat&oacute;rio" }
+    ]
+  },
+  {
+    "id": "P",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "João Maria Gusmão",
+      "author_pt": "João Maria Gusmão"
+    },
+    "drawings": [
+      { "id": 198, "slug": "HdE: a pr&aacute;tica virtuosa do eclipse 1", "title": "Hist&oacute;ria da enchente: a pr&aacute;tica virtuosa do eclipse 1" },
+      { "id": 199, "slug": "HdE:  a pr&aacute;tica virtuosa do eclipse 2", "title": "Hist&oacute;ria da enchente: a pr&aacute;tica virtuosa do eclipse 2" },
+      { "id": 200, "slug": "HdE:  a pr&aacute;tica virtuosa do eclipse 3", "title": "Hist&oacute;ria da enchente: a pr&aacute;tica virtuosa do eclipse 3" },
+      { "id": 201, "slug": "Zoom: anagrama de osso?", "title": "Zoom: *Totzahoth*: anagrama de osso? (Ver desenho 169 mesa L)" },
+      { "id": 202, "slug": "Zoom: a mesa e o al&ccedil;ap&atilde;o", "title": "Zoom: a mesa e o al&ccedil;ap&atilde;o (ver desenho 68 mesa E)" },
+      { "id": 203, "slug": "aQdH: a dessincroniza&ccedil;&atilde;o", "title": "A queda do homem: a dessincroniza&ccedil;&atilde;o" },
+      { "id": 204, "slug": "HdO: o bibliotec&aacute;rio 2", "title": "Hist&oacute;ria do Ovo: o bibliotec&aacute;rio 2" },
+      { "id": 205, "slug": "CdGC: O olho de C", "title": "Comp&ecirc;ndio de geometria clitoridiana: O olho de C" },
+      { "id": 206, "slug": "&eacute;dipo cego: *la queue du chat*", "title": "&eacute;dipo cego: v&ecirc; menos melhor que... &rArr; &sub; comp&ecirc;ndio de geometria clitoridiana: v&ecirc; melhor e &sub; *La gar&ccedil;onette et la queue du chat de Schr&ouml;dinger*" },
+      { "id": 207, "slug": "aGdF: T versus Q &sub; CdGC &rArr; &sub; o zoom: anagrama de osso?", "title": "A guerras das formas: tri&acirc;ngulo versus quadrado &sub; comp&ecirc;ndio de geometria clitoridiana &rArr; &sub; o zoom: *Totzahoth*: anagrama de osso?" },
+      { "id": 208, "slug": "Hapax: *La gar&ccedil;onette et la queue*", "title": "Hapax: *La gar&ccedil;onette et la queue du chat de Schr&ouml;dinger* (Bola&ntilde;o)" },
+      { "id": 209, "slug": "CdGC: v&ecirc; melhor", "title": "Comp&ecirc;ndio de geometria clitoridiana: v&ecirc; melhor" },
+      { "id": 210, "slug": "HdO: o bibliotec&aacute;rio 1", "title": "Hist&oacute;ria do Ovo: o bibliotec&aacute;rio 1" }
+    ]
+  },
+  {
+    "id": "Q",
+    "orientation": "vertical",
+    "comment": {
+      "author_en": "Tiago Baptista",
+      "author_pt": "Tiago Baptista"
+    },
+    "drawings": [
+      { "id": 224, "slug": "Or&aacute;culos: a sombra do olho 1 &epsilon; &eacute;C", "title": "Or&aacute;culos: a sombra do olho 1 &epsilon; &eacute;dipo cego" },
+      { "id": 225, "slug": "Or&aacute;culos: a sombra do olho 2 &epsilon; &eacute;C", "title": "Or&aacute;culos: a sombra do olho 2 &epsilon; &eacute;dipo cego" },
+      { "id": 226, "slug": "dMdS: : Movimento *ipseioidale* e meteoros WOAVS", "title": "Da metamorfose das sombras: Movimento *ipseioidale* e meteoros &epsilon; W ou a vida selvagem" },
+      { "id": 227, "slug": "dMdS: O esp&iacute;rito do eucalipto &epsilon; WOAVS", "title": "Da metamorfose das sombras: O esp&iacute;rito do eucalipto &epsilon; W ou a vida selvagem (t&eacute;cnica do camale&atilde;o)" },
+      { "id": 228, "slug": "dMdS: O esp&iacute;rito do eucalipto: *Le doubl&eacute;* &epsilon; WOAVS", "title": "Da metamorfose das sombras: O esp&iacute;rito do eucalipto: *Le doubl&eacute;* &epsilon; W ou a vida selvagem (t&eacute;cnica do camale&atilde;o)" },
+      { "id": 229, "slug": "dMdS: O esp&iacute;rito do eucalipto: folha s&oacute; &epsilon; WOAVS", "title": "Da metamorfose das sombras: O esp&iacute;rito do eucalipto: folha s&oacute; &epsilon; W ou a vida selvagem (t&eacute;cnica do camale&atilde;o)" },
+      { "id": 230, "slug": "dMdS: O esp&iacute;rito do eucalipto: sombra/sombra &epsilon; WOAVS", "title": "Da metamorfose das sombras: O esp&iacute;rito do eucalipto: sombra/sombra &epsilon; W ou a vida selvagem (t&eacute;cnica do camale&atilde;o)" },
+      { "id": 231, "slug": "Os redondos: Cascas (*qlipot*)", "title": "Os redondos: Cascas (*qlipot*)" },
+      { "id": 232, "slug": "Os redondos: *Et clac*", "title": "Os redondos: *Et clac je vais vous apprendre a mourir blanc et noir et noir et blanc, vous voyez ce n’est pas dif cile...* (Daumal)" },
+      { "id": 233, "slug": "Or&aacute;culos: o olho &epsilon; EC", "title": "Or&aacute;culos: o olho &epsilon; &eacute;dipo cego" },
+      { "id": 234, "slug": "Os redondos: *La b&ecirc;te a trois pieds*", "title": "Os redondos: *La b&ecirc;te a trois pieds*" },
+      { "id": 235, "slug": "Os redondos: o dente ausente e a luva", "title": "Os redondos: o dente ausente e a luva" },
+      { "id": 236, "slug": "Os redondos: o inc&ecirc;ndio", "title": "Os redondos: o inc&ecirc;ndio (*la belle indiff&eacute;rence*)" },
+      { "id": 237, "slug": "dMdS: movimento *ipseioidale*: *le doubl&eacute;*", "title": "Da metamorfose das sombras: movimento *ipseioidale*: *le doubl&eacute;*" },
+      { "id": 238, "slug": "dMdS: movimento *ipseioidal*: s&oacute; sombra s&oacute;", "title": "Da metamorfose das sombras: movimento *ipseioidal*: s&oacute; sombra s&oacute;" },
+      { "id": 239, "slug": "dMdS: movimento *ipseioidal*: o ventilador", "title": "Da metamorfose das sombras: movimento *ipseioidal*: o ventilador" }
+    ]
+  },
+  {
+    "id": "R",
+    "orientation": "horizontal",
+    "comment": {
+      "author_en": "Joana Levi",
+      "author_pt": "Joana Levi"
+    },
+    "drawings": [
+      { "id": 240, "slug": "oQNdAG: a sombra do ovo &rArr; &sub; HDO, DMDS e HFDM", "title": "O quarto nupcial do anti-globo: a sombra do ovo &rArr; &sub; Hist&oacute;ria do Ovo, da metamorfose das sombras e hist&oacute;ria fant&aacute;stica do mergulho" },
+      { "id": 241, "slug": "Do lacunar: o túnel", "title": "Do lacunar: o t&uacute;nel" },
+      { "id": 242, "slug": "HdHsC: pre&acirc;mbulo", "title": "Hist&oacute;ria do homem sem cabe&ccedil;a: pre&acirc;mbulo, cratera olho, cratera pesco&ccedil;o, cratera sobre cratera" },
+      { "id": 243, "slug": "Do lacunar: as clareiras", "title": "Do lacunar: as clareiras" },
+      { "id": 244, "slug": "CdGC: o intruso", "title": "Comp&ecirc;ndio de geometria clitoridiana: o intruso" },
+      { "id": 245, "slug": "CdGC: causa prima", "title": "Comp&ecirc;ndio de geometria clitoridiana: causa prima" },
+      { "id": 246, "slug": "CdGC: aqui jaz Maria Bonita", "title": "Comp&ecirc;ndio de geometria clitoridiana: aqui jaz Maria Bonita" },
+      { "id": 247, "slug": "&perp; &forall; &exist;", "title": "&perp; &forall; &exist;" },
+      { "id": 248, "slug": "CdGC : como uma planta", "title": "Comp&ecirc;ndio de geometria clitoridiana: como uma planta que cresce no ar" },
+      { "id": 249, "slug": "CdGC: O intruso/*trou mur*", "title": "Comp&ecirc;ndio de geometria clitoridiana: O intruso/*trou mur*" },
+      { "id": 250, "slug": "HUdC:  P<sup>S</sup> dentro das P<sup>S</sup>", "title": "Hist&oacute;ria universal dos corredores: as portas dentro das portas" },
+      { "id": 251, "slug": "Hapax: *la chasse a l’aigle*", "title": "Hapax: *la chasse a l’aigle*" },
+      { "id": 252, "slug": "CdGC: m&aacute;scara macaco", "title": "Comp&ecirc;ndio de geometria clitoridiana: m&aacute;scara macaco" },
+      { "id": 253, "slug": "HFdM: o fac&atilde;o", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: o fac&atilde;o" },
+      { "id": 254, "slug": "HFdM: a presa", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: a presa" },
+      { "id": 255, "slug": "HFdM: apari&ccedil;&atilde;o na pra&ccedil;a do com&eacute;rcio", "title": "Hist&oacute;ria fant&aacute;stica do mergulho: apari&ccedil;&atilde;o na pra&ccedil;a do com&eacute;rcio (Lisboa)" },
+      { "id": 256, "slug": "Or&aacute;culos: decifrar", "title": "Or&aacute;culos: decifrar" },
+      { "id": 257, "slug": "Or&aacute;culos: mexer para ver", "title": "Or&aacute;culos: mexer para ver" }
+    ]
+  }
+]
